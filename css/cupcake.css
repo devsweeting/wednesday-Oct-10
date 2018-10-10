@@ -47,7 +47,7 @@ p .sidebar2 {
 }
 
 .cupcake2 {
-  height: 300px;
+  height: 100px;
   display: flex;
   margin: 0 auto;
   float:left;
@@ -57,5 +57,8 @@ p .sidebar2 {
   float: right;
   background-color: brown
 }
-/* background-image: url(https://img2.10bestmedia.com/Images/Photos/348977/Sprinkles-Cupcakes_54_990x660.JPG);
-background-size: cover; */
+
+.column {
+  width: 300px;
+  float: left;
+}
