@@ -30,7 +30,10 @@ p {
   font-weight: bold
 }
 
-
+p .sidebar2 {
+  font-weight: bold;
+  text-align: left;
+}
 
 .cupcake {
   /* width: 200px; */
@@ -40,8 +43,19 @@ p {
 }
 
 .test {
-  background-color: red;
+  background-color:white;
 }
 
-background-image: url(https://img2.10bestmedia.com/Images/Photos/348977/Sprinkles-Cupcakes_54_990x660.JPG);
-background-size: cover;
+.cupcake2 {
+  height: 300px;
+  display: flex;
+  margin: 0 auto;
+  float:left;
+}
+
+.sidebar {
+  float: right;
+  background-color: brown
+}
+/* background-image: url(https://img2.10bestmedia.com/Images/Photos/348977/Sprinkles-Cupcakes_54_990x660.JPG);
+background-size: cover; */
