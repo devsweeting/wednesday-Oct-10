@@ -30,11 +30,7 @@ p {
   font-weight: bold
 }
 
-.flashy {
-  color: navy;
-  font-style: italic bold;
 
-}
 
 .cupcake {
   /* width: 200px; */
@@ -43,6 +39,9 @@ p {
   margin: 0 auto;
 }
 
+.test {
+  background-color: red;
+}
 
 background-image: url(https://img2.10bestmedia.com/Images/Photos/348977/Sprinkles-Cupcakes_54_990x660.JPG);
 background-size: cover;
