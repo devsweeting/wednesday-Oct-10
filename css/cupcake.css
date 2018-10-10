@@ -1,0 +1,48 @@
+header {
+  text-align: center;
+}
+
+h1 {
+font-size: 50px;
+}
+
+li {
+  text-align: center;
+  list-style-position: inside;
+}
+
+h3.intro {
+  font-style: italic;
+  border-bottom: 3px solid black;
+}
+
+.text{
+  color: green
+}
+
+body{
+  background-color:lightgray;
+  text-align: center;
+}
+
+
+p {
+  font-weight: bold
+}
+
+.flashy {
+  color: navy;
+  font-style: italic bold;
+
+}
+
+.cupcake {
+  /* width: 200px; */
+  height: 150px;
+  display: flex;
+  margin: 0 auto;
+}
+
+
+background-image: url(https://img2.10bestmedia.com/Images/Photos/348977/Sprinkles-Cupcakes_54_990x660.JPG);
+background-size: cover;
